@@ -1,0 +1,25 @@
+h1{
+    color: #ff0000;
+
+}
+.imagem{
+    width: 500px;
+}
+.paragrafo{
+    font-size: 40px ;
+}
+.paragrafo60{
+    font-size: 40px;
+}
+.lista{
+    font-size: 40px;
+    border-style: solid;
+    border-radius: 20px;
+}
+.lista2{
+    font-size: 40px;
+    border-style: solid;
+}
+body{
+    background-color:   #ffaa80;
+}
