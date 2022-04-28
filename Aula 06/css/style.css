@@ -1,0 +1,35 @@
+html,body{
+    background-color: azure;
+    text-align: center;
+    background-image: url(../img/neon.jpg); 
+    font-family: Cambria;
+
+}
+
+button{
+    background-color: #f1dbe2;
+    border-radius: 20px;
+    font-size: 20px;
+    width: 50%;
+}
+
+button:active {
+    background-color: #b1cdf3;
+    box-shadow: 0 3px rgb(171, 169, 238);
+    transform: translateY(9px);
+    text-align: center;
+    box-shadow: 0 9px rgb(240, 193, 193);
+
+
+  }
+
+h2{
+    color: azure;
+}
+
+p{
+    color: bisque;
+}
+span{
+    color: rgb(243, 198, 130);
+}
