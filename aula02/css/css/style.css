@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 255, 253);
+}
+
+.nome{
+    color: blue;
+}
+.idade{
+    color: red;
+}
+.email{
+    color: green;
+}
+p{
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 40%;
+}
+.titulo{
+    margin-left: 40%;
+}
